@@ -13,3 +13,7 @@ This exercise requires a basic understanding of git command line tools for mergi
   1. Fork this repository
   2. Clone the project to your desktop
   3. ▶️ Run `git merge introduction` to continue this exercise
+
+## Squashing
+
+A key factors to being successful with git hygiene is dicipline. But things don't always go as we planned, a lot can happen during the development of a feature that might make it hard to keep commits clean.
